@@ -1,0 +1,168 @@
+{
+    "data": [
+        {
+            "background": "https://krishcdbry.github.io/magic-editor/images/greeting1_background.png",
+            "preview": "https://krishcdbry.github.io/magic-editor/images/greeting1_preview.png",
+            "width": 1000,
+            "height": 1500,
+            "config": [
+                {
+                    "type": "text",
+                    "text": "Mrs. Rekha and Suraj Goyal request your gracious presence on the wedding ceremony of their son",
+                    "style": {
+                        "color": "black",
+                        "top": "32%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "0.7rem",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "KrishCdbry",
+                    "style": {
+                        "color": "black",
+                        "top": "42%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "1.5rem"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "WITH",
+                    "style": {
+                        "color": "black",
+                        "top": "49%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "0.7rem"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "Madhurina",
+                    "style": {
+                        "color": "black",
+                        "top": "53%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "1.5rem"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "Daughter of Mr. and Mrs. Arjun Singh",
+                    "style": {
+                        "color": "black",
+                        "top": "60%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "0.7rem",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "SATURDAY, SEPTEMBER 16TH, 2022 7 O'CLOCK IN THE EVENING, MAJESTIC HALL, 1234, 5TH AVENUE, NEW YORK, NY 10001",
+                    "style": {
+                        "color": "black",
+                        "top": "67%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "0.6rem"
+                    }
+                }
+            ]
+        },
+        {
+            "background": "https://krishcdbry.github.io/magic-editor/images/greeting2_background.png",
+            "preview": "https://krishcdbry.github.io/magic-editor/images/greeting2_preview.png",
+            "width": 1000,
+            "height": 1500,
+            "config": [
+                {
+                    "type": "text",
+                    "text": "Mrs. Rekha and Suraj Goyal request your gracious presence on the wedding ceremony of their son",
+                    "style": {
+                        "color": "black",
+                        "top": "32%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "0.7rem",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "KrishCdbry",
+                    "style": {
+                        "color": "black",
+                        "top": "42%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "1.5rem"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "WITH",
+                    "style": {
+                        "color": "black",
+                        "top": "49%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "0.7rem"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "Madhurina",
+                    "style": {
+                        "color": "black",
+                        "top": "53%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "1.5rem"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "Daughter of Mr. and Mrs. Arjun Singh",
+                    "style": {
+                        "color": "black",
+                        "top": "60%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "0.7rem",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "type": "text",
+                    "text": "SATURDAY, SEPTEMBER 16TH, 2022 7 O'CLOCK IN THE EVENING, MAJESTIC HALL, 1234, 5TH AVENUE, NEW YORK, NY 10001",
+                    "style": {
+                        "color": "black",
+                        "top": "67%",
+                        "left": "22%",
+                        "width": "57%",
+                        "textAlign": "center",
+                        "fontSize": "0.6rem"
+                    }
+                }
+            ]
+        }
+    ]
+}
