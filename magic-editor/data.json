@@ -89,38 +89,43 @@
             "width": 1080,
             "height": 1560, 
             "aspectRatio": 1.44,
+            "fontFamilies": [
+                "https://fonts.googleapis.com/css2?family=Montez&family=Satisfy&family=EB+Garamond&family=Abel&display=swap"
+            ],
             "config": [
                 {
                     "type": "text",
                     "text": "Mrs. Rekha and Suraj Goyal request your gracious presence on the wedding ceremony of their son",
                     "style": {
-                        "color": "black",
-                        "top": "32%",
+                        "color": "#f0dc95",
+                        "top": "26%",
                         "left": "22%",
                         "width": "57%",
                         "textAlign": "center",
                         "fontSize": "0.7rem",
-                        "fontStyle": "italic"
+                        "fontStyle": "italic",
+                        "fontFamily": "'EB Garamond', serif"
                     }
                 },
                 {
                     "type": "text",
                     "text": "KrishCdbry",
                     "style": {
-                        "color": "black",
-                        "top": "42%",
+                        "color": "#f0dc95",
+                        "top": "36%",
                         "left": "22%",
                         "width": "57%",
                         "textAlign": "center",
-                        "fontSize": "1.5rem"
+                        "fontSize": "2.3rem",
+                        "fontFamily": "'Satisfy', cursive"
                     }
                 },
                 {
                     "type": "text",
                     "text": "WITH",
                     "style": {
-                        "color": "black",
-                        "top": "49%",
+                        "color": "#f0dc95",
+                        "top": "46.5%",
                         "left": "22%",
                         "width": "57%",
                         "textAlign": "center",
@@ -131,37 +136,40 @@
                     "type": "text",
                     "text": "Madhurina",
                     "style": {
-                        "color": "black",
-                        "top": "53%",
+                        "color": "#f0dc95",
+                        "top": "51%",
                         "left": "22%",
                         "width": "57%",
                         "textAlign": "center",
-                        "fontSize": "1.5rem"
+                        "fontSize": "2.3rem",
+                        "fontFamily": "'Satisfy', cursive"
                     }
                 },
                 {
                     "type": "text",
                     "text": "Daughter of Mr. and Mrs. Arjun Singh",
                     "style": {
-                        "color": "black",
-                        "top": "60%",
+                        "color": "#f0dc95",
+                        "top": "61.5%",
                         "left": "22%",
                         "width": "57%",
                         "textAlign": "center",
                         "fontSize": "0.7rem",
-                        "fontStyle": "italic"
+                        "fontStyle": "italic",
+                        "fontFamily": "'EB Garamond', serif"
                     }
                 },
                 {
                     "type": "text",
                     "text": "SATURDAY, SEPTEMBER 16TH, 2022 7 O'CLOCK IN THE EVENING, MAJESTIC HALL, 1234, 5TH AVENUE, NEW YORK, NY 10001",
                     "style": {
-                        "color": "black",
+                        "color": "#f0dc95",
                         "top": "67%",
                         "left": "22%",
                         "width": "57%",
                         "textAlign": "center",
-                        "fontSize": "0.6rem"
+                        "fontSize": "0.6rem",
+                        "fontFamily": "Abel"
                     }
                 }
             ]
