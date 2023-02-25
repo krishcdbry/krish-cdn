@@ -1,8 +1,8 @@
 {
     "data": [
         {
-            "background": "https://krishcdbry.github.io/magic-editor/images/greeting1_background.jpeg",
-            "preview": "https://krishcdbry.github.io/magic-editor/images/greeting1_preview.png",
+            "background": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting1_background.jpeg",
+            "preview": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting1_preview.png",
             "width": 1000,
             "height": 1500,
             "aspectRatio": 1.5,
@@ -84,8 +84,8 @@
             ]
         },
         {
-            "background": "https://krishcdbry.github.io/magic-editor/images/greeting2_background.jpeg",
-            "preview": "https://krishcdbry.github.io/magic-editor/images/greeting2_background.jpeg",
+            "background": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting2_background.jpeg",
+            "preview": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting2_background.jpeg",
             "width": 1080,
             "height": 1560, 
             "aspectRatio": 1.44,
