@@ -7,6 +7,9 @@
             "width": 1000,
             "height": 1500,
             "aspectRatio": 1.5,
+            "fontFamilies": [
+                "https://fonts.googleapis.com/css2?family=Montez&family=Satisfy&family=EB+Garamond&family=Abel&display=swap"
+            ],
             "config": [
                 {
                     "type": "text",
@@ -87,7 +90,7 @@
         {
             "id": 2,
             "background": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting2_background.jpeg",
-            "preview": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting2_background.jpeg",
+            "preview": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting2_preview.png",
             "width": 1080,
             "height": 1560, 
             "aspectRatio": 1.44,
