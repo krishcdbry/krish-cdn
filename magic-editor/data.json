@@ -178,6 +178,48 @@
                     }
                 }
             ]
-        }
+        },
+        {
+            "background": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting3_background.png",
+            "preview": "https://krishcdbry.github.io/krish-cdn/magic-editor/images/greeting3_preview.png",
+            "width": 512,
+            "height": 512,
+            "aspectRatio": 1,
+            "config": [
+              {
+                "type": "BRANDING_ELEMENT",
+                "text": "GenWise",
+                "style": {
+                  "color": "#FFFFFF",
+                  "top": "1%",
+                  "left": "-11%",
+                  "width": "58%",
+                  "textAlign": "center",
+                  "fontSize": "2.5rem",
+                  "fontStyle": "italic",
+                  "fontFamily": "Montez",
+                  "fontWeight": "normal"
+                }
+              },
+              {
+                "type": "NAME_ELEMENT",
+                "text": "Krish Cdbry",
+                "style": {
+                  "color": "#000000",
+                  "top": "90%",
+                  "left": "52%",
+                  "width": "58%",
+                  "textAlign": "center",
+                  "fontSize": "1.5rem",
+                  "fontStyle": "normal",
+                  "fontFamily": "Tahoma",
+                  "fontWeight": "500"
+                }
+              }
+            ],
+            "fontFamilies": [
+              "https://fonts.googleapis.com/css2?family=EB+Garamond&family=Montez&family=Satisfy&display=swap"
+            ]
+          }
     ]
 }
