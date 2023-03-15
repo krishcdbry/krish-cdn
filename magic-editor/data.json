@@ -10,6 +10,30 @@
             "fontFamilies": [
                 "https://fonts.googleapis.com/css2?family=Montez&family=Satisfy&family=EB+Garamond&family=Abel&display=swap"
             ],
+            "branding": {
+                "active": true,
+                "type": "BRANDING_ELEMENT",
+                "text": "GenWise",
+                "style": {
+                  "top": "1%",
+                  "left": "0%",
+                  "width": "58%"
+                }
+            },
+            "userbranding" : {
+                "active": true,
+                "type": "NAME_ELEMENT",
+                "text": "Krish Cdbry",
+                "style": {
+                  "bottom": "10%",
+                  "right": "12%",
+                  "textAlign": "right",
+                  "fontSize": "2.5rem",
+                  "fontStyle": "italic",
+                  "fontFamily": "Montez",
+                  "fontWeight": "normal"
+                }
+            },
             "config": [
                 {
                     "type": "TEXT_ELEMENT",
@@ -94,6 +118,30 @@
             "width": 1080,
             "height": 1560, 
             "aspectRatio": 1.44,
+            "branding": {
+                "active": true,
+                "type": "BRANDING_ELEMENT",
+                "text": "GenWise",
+                "style": {
+                  "top": "1%",
+                  "left": "0%",
+                  "width": "58%"
+                }
+            },
+            "userbranding" : {
+                "active": true,
+                "type": "NAME_ELEMENT",
+                "text": "Krish Cdbry",
+                "style": {
+                  "bottom": "10%",
+                  "right": "12%",
+                  "textAlign": "right",
+                  "fontSize": "2.5rem",
+                  "fontStyle": "italic",
+                  "fontFamily": "Montez",
+                  "fontWeight": "normal"
+                }
+            },
             "fontFamilies": [
                 "https://fonts.googleapis.com/css2?family=Montez&family=Satisfy&family=EB+Garamond&family=Abel&display=swap"
             ],
@@ -185,6 +233,30 @@
             "width": 512,
             "height": 512,
             "aspectRatio": 1,
+            "branding": {
+                "active": true,
+                "type": "BRANDING_ELEMENT",
+                "text": "GenWise",
+                "style": {
+                  "top": "1%",
+                  "left": "0%",
+                  "width": "58%"
+                }
+            },
+            "userbranding" : {
+                "active": true,
+                "type": "NAME_ELEMENT",
+                "text": "Krish Cdbry",
+                "style": {
+                  "bottom": "10%",
+                  "right": "12%",
+                  "textAlign": "right",
+                  "fontSize": "2.5rem",
+                  "fontStyle": "italic",
+                  "fontFamily": "Montez",
+                  "fontWeight": "normal"
+                }
+            },
             "config": [
               {
                 "type": "BRANDING_ELEMENT",
